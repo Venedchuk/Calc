@@ -11,7 +11,7 @@ namespace calculator
     {
         private double a = 0;
         private double memory = 0;
-        private int firstVare = 2;
+        private int firstVare = 3;
 
         public void Put_A(double a)
         {
