@@ -10,11 +10,11 @@ namespace calculator
     public class Calc 
     {
         private double a = 0;
-        private double memory = 0;
-        private static int firstVar = 1;
-        private int firstVare = firstVar;
+        private int firstVare = 2;
+        public void Put_dA(double a)
 
-        public void Put_A(double a)
+
+
         {
             this.a = a;
         }
