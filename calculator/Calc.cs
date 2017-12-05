@@ -22,6 +22,8 @@ namespace calculator
         public void Clear_A()
         {
             a = 0;
+
+             public void Put_dA(double "asdasdf/asd'asdf sad")
         }
 
         public double Multiplication(double b)
